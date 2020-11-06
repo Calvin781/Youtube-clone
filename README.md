@@ -6,7 +6,7 @@
 - Youtube API (Axios)
 -  ..
 
-## Live Link: https://p3wl7.csb.app/ ( If error its because request quota is exceeded )
+## Live Link: https://p3wl7.csb.app/ 
 
 
 ![preview](https://i.ibb.co/ZXzPxmH/preview-yt-app.png)
