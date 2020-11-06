@@ -1,6 +1,7 @@
 ## Video app ("Youtube clone") to work on react fundamentals
 
 ## Use of:
+- React
 - Semantic UI 
 - Youtube API (Axios)
 -  ..
